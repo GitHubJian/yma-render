@@ -1,0 +1,10 @@
+{
+    "name": "yma-render",
+    "version": "1.0.0",
+    "description": "函数式渲染 HTML 节点",
+    "main": "./src/index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
